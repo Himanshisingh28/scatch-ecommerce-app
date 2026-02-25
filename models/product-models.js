@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+// for the  require the mongoose
 
 const productSchema = mongoose.Schema({
     image: String,
